@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="app_name">VET Occupations</string>
+    <string name="title_section3">Information</string>
+    <string name="title_section2">Training Courses</string>
+    <string name="title_section1">Jobs</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_cover">CoverActivity</string>
+    <string name="jobTitle">Latest Jobs</string>
+    <string-array name="test3">
+        <item >G</item>
+        <item >H</item>
+        <item >I</item>
+    </string-array>
+        <string name="chooseOcuppation">What would you like to be today?</string>
+        <string-array name="chooseOcuppation">
+            <item>Select an Occupation</item><item >Electronic Technician</item>
+            <item >Mechanic</item>
+            
+        </string-array>
+            <string name="enterOccupation">"Choose your occuptaion ... "</string>
+            <string name="occupationDescription">Description</string>
+            <string name="occupationalSkill">Occupational Skills</string>
+            <string name="dialogMessageJob">Getting Data ...</string>
+            <string name="setOccupation">Set Occupation</string>
+            <string name="liketext">Like</string>
+            <string name="likeButton">Like</string>
+            <string name="detailsButton">Click Here to Get More Details ...</string>
+            <string name="timeline">Timeline</string>
+            <string name="selected">Selected</string>
+            <string name="like">Likes</string>
+            <string name="Viewed">Viewed</string>
+            <string name="defaultNumber">0</string>
+
+</resources>
